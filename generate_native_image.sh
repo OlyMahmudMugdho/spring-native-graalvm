@@ -1,0 +1,1 @@
+./mvnw clean package native:compile -Pnative -DskipTests
